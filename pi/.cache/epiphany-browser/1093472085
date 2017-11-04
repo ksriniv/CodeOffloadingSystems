@@ -1,0 +1,30 @@
+div.toolbar
+{
+	position: absolute;
+	left: 0px;
+	bottom: 0px;
+	width: 100%;
+	background:url(images/background/toolbar-background.png);
+	overflow: hidden;
+	padding-top: 5px;
+	padding-left: 5px;	
+}
+.toolsection
+{
+}
+.toolgroup
+{
+	margin-left: 5px;
+	float: left;
+	height: 30px;
+}
+.toolitem
+{
+	display: table-cell;
+	vertical-align: middle
+}
+.toolbutton
+{
+	width: 24px;
+	height: 24px;
+}
